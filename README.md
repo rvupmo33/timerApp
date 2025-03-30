@@ -12,12 +12,12 @@
 ### Product Images
 
 <p align="center">
-  <img src="./assets/p1.png" alt="Description of Image" width="90%" borderRadius="50px" />
+  <img src="./assets/p1.png" alt="Description of Image" width="50%" borderRadius="50px" />
 </p>
 <p align="center">
-  <img src="./assets/p2.png" alt="Description of Image" width="90%" borderRadius="50px" />
+  <img src="./assets/p2.png" alt="Description of Image" width="50%" borderRadius="50px" />
 </p>
 
 <p align="center">
-  <img src="./assets//p3.png" alt="Description of Image" width="90%" borderRadius="50px" />
+  <img src="./assets//p3.png" alt="Description of Image" width="50%" borderRadius="50px" />
 </p>
