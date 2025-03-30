@@ -1,0 +1,16 @@
+{
+  "name": "timerapp",
+  "productName": "Timer App",
+  "version": "1.0.0",
+  "description": "A countdown timer app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "rvupmo33",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^35.1.2",
+    "lucide": "^0.485.0"
+  }
+}
